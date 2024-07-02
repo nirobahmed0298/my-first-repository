@@ -1,6 +1,9 @@
 .repo{
     text-align: center;
     color: rgb(0, 0, 0);
+    background-color: rgb(159, 192, 127);
+    padding: 20px 10px;
+    margin-bottom: 10px;
 }
 .repo p{
     font-family: 'Times New Roman', Times, serif;
