@@ -1,0 +1,12 @@
+.repo{
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+.repo p{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+.repo button{
+    padding: 10px 20px;
+    border: none;
+}
